@@ -1,0 +1,27 @@
+source,date_started,priority,url,scope,status,subject,topic,name
+Youtube,2025-11-01,Low,http://youtube.com/watch?v=...-J3Div,Quick Win,Completed,Data Visualization,Data,Plotly Tutorial
+Youtube,,Low,http://youtube.com/watch?v=...index=2,Long,Not started,Godot,Video Games,Godot Full Tutorial
+Udemy,2025-01-01,Medium,,Long,Completed,Cloud Architecture,Software Engineering,AWS Solution Architect
+Book,,High,,Long,Not started,Business Analytics,Data,The Saas PlayBook
+Book,,Low,,,Not started,,,
+Youtube,,Medium,http://youtube.com/watch?v=...dex=5,Quick Win,Not started,AI,Data,MC Server on Docker
+Youtube,2025-10-07,Low,http://youtube.com/watch?v=...dex=18,Medium,In progress,Gypsy Jazz,Music,Dark Eyes GJ
+Youtube,2025-12-24,High,http://youtube.com/watch?v=...cbHwNQ,Medium,In progress,Gypsy Jazz,Music,For Sephora
+Book,2025-12-17,High,,Long,In progress,Business Analytics,Data,Lean Analytics
+Udemy,,Medium,,Epic,Not started,Cloud Architecture,Software Engineering,AWS Data Engineering
+Book,2025-06-01,Medium,,Medium,Completed,Data Visualization,Data,Storytelling With Data
+Youtube,2025-12-26,High,http://youtube.com/watch?v=...8B5a,Quick Win,In progress,Data Engineering,Data,PySpark Tutorial
+Youtube,2025-10-08,Low,http://youtube.com/watch?v=...8B4a,Quick Win,Completed,Gypsy Jazz,Music,Robin Nolan - Solo Gypsy Jazz
+Youtube,,High,http://youtube.com/watch?v=...index=1,Quick Win,Not started,AI,Data,LLM Docker
+Youtube,,High,http://youtube.com/watch?v=...-A9G,Medium,Not started,AI,Data,Crash Course Langchain
+Youtube,,Medium,http://youtube.com/watch?v=...dex=34,Quick Win,Not started,Entrepreneurship,Entrepreneurship,Google Like A Pro
+Youtube,,Low,http://youtube.com/watch?v=...index=2,Long,Not started,Gypsy Jazz,Music,Blue Drag
+Youtube,2025-10-01,Low,http://youtube.com/watch?v=...8B5,Quick Win,Completed,Negative Development,Photo,Developing Negative Film
+Youtube,,High,http://youtube.com/watch?v=...Bn0234,Medium,Not started,AI,Data,LangChain Upload
+Youtube,,Low,http://youtube.com/watch?v=...dex=12,Long,Not started,Web Development,Software Engineering,Google Drive Replica
+Youtube,2025-10-01,Low,http://youtube.com/watch?v=...dex=18,Quick Win,Completed,Field Recording,Music,KMPU Field Recording
+Book,2025-04-01,Medium,,Epic,In progress,Machine Learning,Data,ISLR Python
+Youtube,2025-12-10,Medium,http://youtube.com/watch?v=...t=3849,Medium,Completed,Synthesis,Music,Moog Matriarch - Mage Tutorial
+Book,2025-12-15,High,,Medium,In progress,Entrepreneurship,Entrepreneurship,"Start Small, Stay Small"
+Youtube,,Medium,http://youtube.com/watch?v=...index=3,Epic,Not started,Raspberry Pi,Software Engineering,Raspberry Pi WebApp
+Youtube,2025-12-16,Low,http://youtube.com/watch?v=...dex=25,Quick Win,In progress,Synthesis,Music,Moog Matriarch - Tutorial
